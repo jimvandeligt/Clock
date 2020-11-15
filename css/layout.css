@@ -1,0 +1,23 @@
+html {
+  height: 100vh;
+  padding: 2.5% 0;
+}
+
+footer {
+  position: absolute;
+  bottom: 0.6em;
+  height: 1em;
+}
+
+footer p {
+  margin: 0 0.5em;
+  font-family: 'Open Sans', sans-serif;
+}
+
+footer a {
+  color: inherit;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
